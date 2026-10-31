@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+
+# Generated files
+*.npz
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+# Local backup files
+Backend/main_backup.py

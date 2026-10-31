@@ -1,0 +1,830 @@
+[
+    {
+        "object_id": 61517,
+        "title": "Statue of Bodhisattva",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Limestone",
+        "date": "",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/14_78_beforecleaning1.JPG"
+    },
+    {
+        "object_id": 315492,
+        "title": "Male Figurine",
+        "artist": "",
+        "classification": "Sculpture-Sheet metal",
+        "medium": "Silver",
+        "date": "1400–1533",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP-13440-021.jpg"
+    },
+    {
+        "object_id": 460908,
+        "title": "Statue: Christ",
+        "artist": "Southern Netherlands",
+        "classification": "Sculpture-Alabaster",
+        "medium": "Alabaster",
+        "date": "ca. 1450–70",
+        "image_url": "https://images.metmuseum.org/CRDImages/rl/original/1484-1.jpg"
+    },
+    {
+        "object_id": 61555,
+        "title": "Lion Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Wood",
+        "date": "",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/28_187_1-2_F.JPG"
+    },
+    {
+        "object_id": 61560,
+        "title": "Relief of Bodhisattva",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Stone",
+        "date": "8th–9th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/29_65_F.JPG"
+    },
+    {
+        "object_id": 61564,
+        "title": "Statue of Guanyin",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Wood",
+        "date": "",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_54_F.JPG"
+    },
+    {
+        "object_id": 256127,
+        "title": "Marble statue of Pan",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "1st century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DT6835.jpg"
+    },
+    {
+        "object_id": 61579,
+        "title": "Relief",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud, papier-mâché",
+        "date": "18th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/LC-30_76_96_001.jpg"
+    },
+    {
+        "object_id": 61580,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_97_F.JPG"
+    },
+    {
+        "object_id": 61581,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "17th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_98_F.JPG"
+    },
+    {
+        "object_id": 61582,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "17th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_99_F.JPG"
+    },
+    {
+        "object_id": 61583,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "17th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_100_F.JPG"
+    },
+    {
+        "object_id": 61584,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "17th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_101_F.JPG"
+    },
+    {
+        "object_id": 61585,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "17th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_102_F.JPG"
+    },
+    {
+        "object_id": 61586,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "17th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_103_F.JPG"
+    },
+    {
+        "object_id": 61587,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "17th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_104_F.JPG"
+    },
+    {
+        "object_id": 61588,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "17th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_105_F.JPG"
+    },
+    {
+        "object_id": 61589,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "17th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_106_F.JPG"
+    },
+    {
+        "object_id": 61590,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/LC-30_76_107_base-003.jpg"
+    },
+    {
+        "object_id": 61591,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_108_F.JPG"
+    },
+    {
+        "object_id": 61592,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud",
+        "date": "",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_109_F.JPG"
+    },
+    {
+        "object_id": 39074,
+        "title": "Male Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Bronze",
+        "date": "12th–14th century(?)",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/1987_142_234.jpg"
+    },
+    {
+        "object_id": 61621,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Wood",
+        "date": "date uncertain",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_161.JPG"
+    },
+    {
+        "object_id": 61622,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Wood",
+        "date": "",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_162.JPG"
+    },
+    {
+        "object_id": 61637,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Painted wood",
+        "date": "18th century or earlier",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_175.JPG"
+    },
+    {
+        "object_id": 61644,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Painted wood",
+        "date": "18th century or earlier",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_182.JPG"
+    },
+    {
+        "object_id": 61645,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Painted wood",
+        "date": "18th century or earlier",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_183.JPG"
+    },
+    {
+        "object_id": 61646,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Painted wood",
+        "date": "18th century or earlier",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_184.JPG"
+    },
+    {
+        "object_id": 61647,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Painted wood",
+        "date": "18th century or earlier",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/30_76_185.JPG"
+    },
+    {
+        "object_id": 61655,
+        "title": "Statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Mud, gilded and polychromed",
+        "date": "",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/31_100_3_F.JPG"
+    },
+    {
+        "object_id": 61659,
+        "title": "Statue of Official",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Wood, painted and gilded",
+        "date": "",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/95613.jpg"
+    },
+    {
+        "object_id": 630999,
+        "title": "Limestone relief head of a Persian",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Limestone with traces of paint",
+        "date": "ca. 330–300 BCE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP322105.jpg"
+    },
+    {
+        "object_id": 844007,
+        "title": "Figurine",
+        "artist": "Wari artist(s)",
+        "classification": "Stone-Sculpture",
+        "medium": "Turquoise",
+        "date": "650–800 CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP-20565-001.jpg"
+    },
+    {
+        "object_id": 307443,
+        "title": "Fragmentary Relief",
+        "artist": "",
+        "classification": "Stone-Sculpture",
+        "medium": "Stone",
+        "date": "9th–10th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP-20489-002.jpg"
+    },
+    {
+        "object_id": 61694,
+        "title": "Statue of Fenghuang",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Wood, gilt, polychrome",
+        "date": "",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/44_134.JPG"
+    },
+    {
+        "object_id": 329992,
+        "title": "Marble relief fragment with male torso",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "ca. 1st century BCE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/LC-2021_40_7-20210517-01.jpg"
+    },
+    {
+        "object_id": 317753,
+        "title": "Female figurine",
+        "artist": "",
+        "classification": "Sculpture-Sheet metal",
+        "medium": "Silver-gold alloy",
+        "date": "1400–1533",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP-13440-036.jpg"
+    },
+    {
+        "object_id": 248140,
+        "title": "Marble statue of a lion",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble, Parian 2",
+        "date": "ca. 400–390 BCE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP-43517-001.jpg"
+    },
+    {
+        "object_id": 330097,
+        "title": "Head of a Bishop with Crozier",
+        "artist": "",
+        "classification": "Sculpture-Stone",
+        "medium": "Limestone, traces of gilding",
+        "date": "15th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/md/original/kn316.jpg"
+    },
+    {
+        "object_id": 307598,
+        "title": "Eagle relief",
+        "artist": "Toltec artist(s)",
+        "classification": "Stone-Sculpture",
+        "medium": "Andesite or dacite, Maya blue, stucco, red pigment",
+        "date": "900–1200 CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP-17616-001.jpg"
+    },
+    {
+        "object_id": 307599,
+        "title": "Eagle relief",
+        "artist": "Toltec artist(s)",
+        "classification": "Stone-Sculpture",
+        "medium": "Andesite or dacite, Maya blue, stucco, red pigment",
+        "date": "900–1200 CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP-20487-001.jpg"
+    },
+    {
+        "object_id": 194972,
+        "title": "Portrait relief of Louis XIV (1638–1715)",
+        "artist": "François Girardon",
+        "classification": "Sculpture",
+        "medium": "Marble",
+        "date": "late 17th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/es/original/SF23_34.jpg"
+    },
+    {
+        "object_id": 307637,
+        "title": "Relief",
+        "artist": "",
+        "classification": "Stone-Sculpture",
+        "medium": "Stone",
+        "date": "16th century (?)",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/vs00_5_37.jpg"
+    },
+    {
+        "object_id": 307638,
+        "title": "Relief",
+        "artist": "",
+        "classification": "Stone-Sculpture",
+        "medium": "Stone",
+        "date": "15th–early 16th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/vs00_5_38.jpg"
+    },
+    {
+        "object_id": 307639,
+        "title": "Relief",
+        "artist": "",
+        "classification": "Stone-Sculpture",
+        "medium": "Stone",
+        "date": "16th century (?)",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP108301.jpg"
+    },
+    {
+        "object_id": 199116,
+        "title": "Relief",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Marble",
+        "date": "late 15th–early 16th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/es/original/129985.jpg"
+    },
+    {
+        "object_id": 254491,
+        "title": "Small helmeted head from a marble relief",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "4th–3rd century BCE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/129994.jpg"
+    },
+    {
+        "object_id": 242223,
+        "title": "Limestone statue of Apollo",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Limestone",
+        "date": "ca. 3rd–1st century BCE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP161894.jpg"
+    },
+    {
+        "object_id": 252469,
+        "title": "Marble statue of a youth",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble, Pentelic",
+        "date": "1st century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP-14287-084.jpg"
+    },
+    {
+        "object_id": 252534,
+        "title": "Marble inscribed statue base",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "ca. 160–170 CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP165545.jpg"
+    },
+    {
+        "object_id": 254608,
+        "title": "Marble statue of Herakles",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "1st century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP271747.jpg"
+    },
+    {
+        "object_id": 467626,
+        "title": "Mary Magdalene Relief",
+        "artist": "",
+        "classification": "Sculpture-Stone",
+        "medium": "Black Marble",
+        "date": "15th–16th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/cl/original/LC_36_79_3_s01.jpg"
+    },
+    {
+        "object_id": 254697,
+        "title": "Marble statue of Aphrodite",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "1st or 2nd century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP138723.jpg"
+    },
+    {
+        "object_id": 195317,
+        "title": "Female statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Stone",
+        "date": "ca. 1550–60",
+        "image_url": "https://images.metmuseum.org/CRDImages/es/original/61006.jpg"
+    },
+    {
+        "object_id": 195318,
+        "title": "Female statuette",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Stone, polychromed",
+        "date": "ca. 1550–60",
+        "image_url": "https://images.metmuseum.org/CRDImages/es/original/61007.jpg"
+    },
+    {
+        "object_id": 471848,
+        "title": "Relief with the Annunciation",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Carrara marble inlaid with serpentine (verde di Prato)",
+        "date": "ca. 1180–1200",
+        "image_url": "https://images.metmuseum.org/CRDImages/cl/original/DP102906.jpg"
+    },
+    {
+        "object_id": 471850,
+        "title": "Sculpture of Moses with Tablets of the Law",
+        "artist": "",
+        "classification": "Sculpture-Stone",
+        "medium": "Limestone, polychromy",
+        "date": "ca. 1170",
+        "image_url": "https://images.metmuseum.org/CRDImages/cl/original/DP359499.jpg"
+    },
+    {
+        "object_id": 23345,
+        "title": "The Resurrection",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Alabaster, polychromy, gilding",
+        "date": "dated 1375",
+        "image_url": "https://images.metmuseum.org/CRDImages/aa/original/DP-18976-009.jpg"
+    },
+    {
+        "object_id": 250680,
+        "title": "Two marble portrait heads from a relief",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "ca. 13 BCE–5 CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP333061.jpg"
+    },
+    {
+        "object_id": 250681,
+        "title": "Two marble portrait heads from a relief",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "ca. 13 BCE–5 CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP333064.jpg"
+    },
+    {
+        "object_id": 463695,
+        "title": "Sculpture of God The Father from Frame",
+        "artist": "",
+        "classification": "Sculpture-Wood",
+        "medium": "Wood, polychromy, traces of gilding",
+        "date": "late 15th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/md/original/sf15-121-1bs1.jpg"
+    },
+    {
+        "object_id": 256879,
+        "title": "Marble statue of Dionysus",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "1st–2nd century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP117048.jpg"
+    },
+    {
+        "object_id": 205712,
+        "title": "Statuette",
+        "artist": "Andrea Briosco, called Riccio",
+        "classification": "Sculpture-Bronze",
+        "medium": "Bronze",
+        "date": "16th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/es/original/DP-169-003.jpg"
+    },
+    {
+        "object_id": 471989,
+        "title": "The Death of the Virgin (The Dormition)",
+        "artist": "Tilman Heysacker",
+        "classification": "Sculpture-Wood",
+        "medium": "Oak",
+        "date": "late 15th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/cl/original/DP102929.jpg"
+    },
+    {
+        "object_id": 195517,
+        "title": "Statuette group",
+        "artist": "Bartolomeo Pinelli",
+        "classification": "Sculpture",
+        "medium": "Terracotta",
+        "date": "1833",
+        "image_url": "https://images.metmuseum.org/CRDImages/es/original/65439.jpg"
+    },
+    {
+        "object_id": 254925,
+        "title": "Marble statue of Hermes",
+        "artist": "Polykleitos",
+        "classification": "Stone Sculpture",
+        "medium": "Marble, Pentellic",
+        "date": "1st or 2nd century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP253642.jpg"
+    },
+    {
+        "object_id": 27632,
+        "title": "The Resurrection",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Alabaster, gold, polychromy",
+        "date": "15th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/aa/original/DP-18976-015.jpg"
+    },
+    {
+        "object_id": 252958,
+        "title": "Basalt statue of Aphrodite",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Basalt",
+        "date": "late 1st–early 2nd century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP279058.jpg"
+    },
+    {
+        "object_id": 252983,
+        "title": "Limestone funerary relief",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Limestone",
+        "date": "ca. 325–300 BCE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP-21055-001.jpg"
+    },
+    {
+        "object_id": 250954,
+        "title": "Statue of a boy",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Bekhen stone",
+        "date": "1st century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP-23278-001.jpg"
+    },
+    {
+        "object_id": 463973,
+        "title": "Relief of the Betrayal and Arrest of Jesus",
+        "artist": "",
+        "classification": "Sculpture-Stone",
+        "medium": "Limestone with traces of polychromy and gilding",
+        "date": "1264–88",
+        "image_url": "https://images.metmuseum.org/CRDImages/md/original/DP-12239-001.jpg"
+    },
+    {
+        "object_id": 208044,
+        "title": "Nijinsky (?)",
+        "artist": "Auguste Rodin",
+        "classification": "Sculpture-Bronze",
+        "medium": "Bronze, marble base",
+        "date": "modeled 1912, cast 1959",
+        "image_url": "https://images.metmuseum.org/CRDImages/es/original/DT6784.jpg"
+    },
+    {
+        "object_id": 203976,
+        "title": "Female statuette",
+        "artist": "Leonhard Kern",
+        "classification": "Sculpture-Miniature",
+        "medium": "Wood, painted",
+        "date": "17th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/es/original/DP-46793-001.jpg"
+    },
+    {
+        "object_id": 474316,
+        "title": "Statuette, Hooded Figure",
+        "artist": "",
+        "classification": "Sculpture-Stone",
+        "medium": "Dark Green Sandstone",
+        "date": "ca. 1st–3rd century CE or later",
+        "image_url": "https://images.metmuseum.org/CRDImages/md/original/sftr8512001s1.jpg"
+    },
+    {
+        "object_id": 310478,
+        "title": "Feline",
+        "artist": "Nopiloa artist(s)",
+        "classification": "Stone-Sculpture",
+        "medium": "Pyroxene andesite",
+        "date": "600–1000 CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP348250.jpg"
+    },
+    {
+        "object_id": 251094,
+        "title": "Marble statue of Aphrodite",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "1st–2nd century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/LC-21_88_70d.jpg"
+    },
+    {
+        "object_id": 472278,
+        "title": "Lion Relief",
+        "artist": "",
+        "classification": "Sculpture-Ceramics",
+        "medium": "Sandstone with traces of paint",
+        "date": "ca. 1200",
+        "image_url": "https://images.metmuseum.org/CRDImages/cl/original/DP-21358-001.jpg"
+    },
+    {
+        "object_id": 255210,
+        "title": "Marble statue of Hermes",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "1st or 2nd century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/250346.jpg"
+    },
+    {
+        "object_id": 251115,
+        "title": "Marble statue of Aphrodite",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "1st or 2nd century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP117040.jpg"
+    },
+    {
+        "object_id": 312558,
+        "title": "Female Figurine",
+        "artist": "",
+        "classification": "Sculpture-Sheet metal",
+        "medium": "Silver",
+        "date": "1400–1533",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP-13440-027.jpg"
+    },
+    {
+        "object_id": 474395,
+        "title": "Relief of a Bishop",
+        "artist": "",
+        "classification": "Sculpture-Stone",
+        "medium": "Limestone",
+        "date": "ca. 1400–1440",
+        "image_url": "https://images.metmuseum.org/CRDImages/cl/original/MED722v2.jpg"
+    },
+    {
+        "object_id": 468265,
+        "title": "Relief with Half Figure of an Angel",
+        "artist": "",
+        "classification": "Sculpture-Stone",
+        "medium": "Marble (Lunense marble from Carrara)",
+        "date": "ca. 1430–35",
+        "image_url": "https://images.metmuseum.org/CRDImages/md/original/DP166821.jpg"
+    },
+    {
+        "object_id": 312637,
+        "title": "Figurine",
+        "artist": "Wari artist(s)",
+        "classification": "Stone-Sculpture",
+        "medium": "Turquoise",
+        "date": "650–1000 CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP-25382-001.jpg"
+    },
+    {
+        "object_id": 466379,
+        "title": "Sculpture of an Enthroned King",
+        "artist": "",
+        "classification": "Sculpture-Stone",
+        "medium": "Limestone",
+        "date": "ca. 1230–35",
+        "image_url": "https://images.metmuseum.org/CRDImages/md/original/DP166846.jpg"
+    },
+    {
+        "object_id": 257642,
+        "title": "Marble statue of Aphrodite",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "marble",
+        "date": "2nd century BCE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP143655.jpg"
+    },
+    {
+        "object_id": 251516,
+        "title": "Marble female relief head",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "1st–2nd century CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP202800.jpg"
+    },
+    {
+        "object_id": 775805,
+        "title": "Puteal (wellhead) with Narcissus and Echo, and Hylas and the Nymphs",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "2nd century",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP-17007-001.jpg"
+    },
+    {
+        "object_id": 460458,
+        "title": "Tondo",
+        "artist": "Giovanni della Robbia",
+        "classification": "Sculpture-Terracotta",
+        "medium": "Tin-glazed terracotta",
+        "date": "ca. 1500–1520",
+        "image_url": "https://images.metmuseum.org/CRDImages/rl/original/2039-1.jpg"
+    },
+    {
+        "object_id": 313124,
+        "title": "Figurine",
+        "artist": "Wari artist(s)",
+        "classification": "Stone-Sculpture",
+        "medium": "Turquoise",
+        "date": "650–1000 CE",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP-25105-001.jpg"
+    },
+    {
+        "object_id": 470879,
+        "title": "Sculpture of a Winged Ox",
+        "artist": "",
+        "classification": "Sculpture",
+        "medium": "Stone",
+        "date": "14th–15th century",
+        "image_url": "https://images.metmuseum.org/CRDImages/cl/original/cdsmm6565.jpg"
+    },
+    {
+        "object_id": 313251,
+        "title": "Female figurine",
+        "artist": "",
+        "classification": "Sculpture-Sheet metal",
+        "medium": "Gold",
+        "date": "1400–1533",
+        "image_url": "https://images.metmuseum.org/CRDImages/ao/original/DP-13440-033.jpg"
+    },
+    {
+        "object_id": 255936,
+        "title": "Marble fragment of a votive relief with Athena",
+        "artist": "",
+        "classification": "Stone Sculpture",
+        "medium": "Marble",
+        "date": "ca. 405–390 BCE",
+        "image_url": "https://images.metmuseum.org/CRDImages/gr/original/DP261230.jpg"
+    }
+]

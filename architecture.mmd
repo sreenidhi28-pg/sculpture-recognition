@@ -1,0 +1,13 @@
+﻿flowchart TD
+    A["User"] --> B["React Frontend"]
+    B --> C["Image Upload / Webcam Capture"]
+    C --> D["FastAPI Backend"]
+    D --> E["Image Validation"]
+    E --> F["OpenCLIP ViT-B-32"]
+    F --> G["512-D Image Embedding"]
+    G --> H["Qdrant Vector Database"]
+    H --> I["Top 5 Matching Object IDs + Scores"]
+    I --> J["PostgreSQL Database"]
+    J --> K["Sculpture Metadata"]
+    K --> L["FastAPI Response"]
+    L --> M["React Results Display"]
